@@ -87,8 +87,8 @@ export default function Home() {
             <Link href="#technology" className="hover:text-gray-900 transition-colors">Technology</Link>
             <Link href="#contact" className="hover:text-gray-900 transition-colors">Contact</Link>
           </div>
-          <Link href="#contact" className="inline-flex items-center justify-center bg-blue-600 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-blue-700 transition-colors">
-            Get Started
+          <Link href="https://demo-liard-ten-94.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-blue-600 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-blue-700 transition-colors">
+            Try Demo
           </Link>
         </Container>
       </nav>
@@ -104,10 +104,10 @@ export default function Home() {
           </p>
           <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="#contact" className="inline-flex items-center justify-center bg-blue-600 text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-blue-700 transition-colors">
-              Get Started
+              Contact Us
             </Link>
-            <Link href="#overview" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
-              Learn More
+            <Link href="https://demo-liard-ten-94.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
+              Try Demo
             </Link>
           </div>
         </Container>
@@ -506,8 +506,8 @@ export default function Home() {
             <Link href="#contact" className="inline-flex items-center justify-center bg-blue-600 text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-blue-700 transition-colors">
               Contact Us
             </Link>
-            <Link href="#contact" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
-              Get Started
+            <Link href="https://demo-liard-ten-94.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
+              Try Demo
             </Link>
           </div>
           <div className="mt-10">

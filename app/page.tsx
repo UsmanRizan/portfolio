@@ -87,7 +87,7 @@ export default function Home() {
             <Link href="#technology" className="hover:text-gray-900 transition-colors">Technology</Link>
             <Link href="#contact" className="hover:text-gray-900 transition-colors">Contact</Link>
           </div>
-          <Link href="https://demo-liard-ten-94.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-blue-600 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-blue-700 transition-colors">
+          <Link href="https://app.rizan.dev/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-blue-600 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-blue-700 transition-colors">
             Try Demo
           </Link>
         </Container>
@@ -106,7 +106,7 @@ export default function Home() {
             <Link href="#contact" className="inline-flex items-center justify-center bg-blue-600 text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-blue-700 transition-colors">
               Contact Us
             </Link>
-            <Link href="https://demo-liard-ten-94.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
+            <Link href="https://app.rizan.dev/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
               Try Demo
             </Link>
           </div>
@@ -506,7 +506,7 @@ export default function Home() {
             <Link href="#contact" className="inline-flex items-center justify-center bg-blue-600 text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-blue-700 transition-colors">
               Contact Us
             </Link>
-            <Link href="https://demo-liard-ten-94.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
+            <Link href="https://app.rizan.dev/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center bg-gray-100 text-gray-900 px-8 py-4 rounded-full text-lg font-medium hover:bg-gray-200 transition-colors">
               Try Demo
             </Link>
           </div>

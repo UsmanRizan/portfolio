@@ -383,7 +383,7 @@ export default function Home() {
 
       <footer className="bg-white border-t border-gray-200 py-8">
           <Container className="text-center text-sm text-gray-400">
-            © 2026 Rizan Technologies. All rights reserved.
+            © 2026 Rizan . All rights reserved.
           </Container>
       </footer>
     </main>
